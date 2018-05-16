@@ -1,6 +1,6 @@
 engkor_dict = dict()
 
-while(1):
+while True:
 
    eng = input("eng : ")
 
